@@ -1,5 +1,5 @@
 import axios from "axios";
-const url = "http://localhost:8000";
+const url = "https://tapri-backend.onrender.com";
 
 export const getProduct = async () => {
   try {
